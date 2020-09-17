@@ -22,9 +22,9 @@ I do not wish to divulge much personal information on this website... So... bett
 > Warren Buffett: Rule number 1 is to never lose money, Rule number 2 is to refer back to rule number 1.
 
 #### Other random demonstrations of Markdown language (Heading 4)
-**Sample text with two stars quoting - Should be bolded**  
-*Sample text with 1 star quoting - Should be italics!*  
-Sample plain text
+- **Sample text with two stars quoting - Should be bolded**  
+- *Sample text with 1 star quoting - Should be italics!*  
+- Sample plain text
 
 ##### Heading 5 Sample
 
