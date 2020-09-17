@@ -34,7 +34,7 @@ I do not wish to divulge much personal information on this website... So... bett
 ### Recent Holidays (Heading 3)
 1. Eastern Europe
     - Hallstatt
-    ![Hallstatt Lake View](https://github.com/kikababoo/website/blob/master/images/hallstatt.JPG)
+    ![Hallstatt Lake View!](https://github.com/kikababoo/website/blob/master/images/hallstatt.JPG)
 
 2. Kyushu, Japan
     - Hakata Ramen
