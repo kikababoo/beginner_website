@@ -4,12 +4,16 @@ Sample line with no 2 spaces at the end
 Sample line with 2 spaces at the end  
 End of para
 
-## Heading 2
-This is the most basic website a beginner can create for free! without knowing how to program!
+## About me
+I do not wish to divulge much personal information on this website... So... better luck next time!
 
-### Heading 3
-Sample text 1
+## Portfolio
+[BRK.B]: 12%
+[MSFT]: 10%  
 
-**Sample text with two stars quoting - Should be bolded**
-*Sample text with 1 star quoting - Should be italics!*
+[BRK.B]: https://www.google.com/search?q=BRK.B+share+price&oq=BRK.B+share+price&aqs=chrome..69i57.1437j0j1&sourceid=chrome&ie=UTF-8
+[MSFT]: https://www.google.com/search?q=MSFT+share+price&oq=MSFT+share+price&aqs=chrome..69i57.1214j0j1&sourceid=chrome&ie=UTF-8
 
+**Sample text with two stars quoting - Should be bolded**  
+*Sample text with 1 star quoting - Should be italics!*  
+Sample plain text
