@@ -8,11 +8,17 @@ End of para
 I do not wish to divulge much personal information on this website... So... better luck next time!
 
 ## Portfolio (Heading 2)
-[BRK.B][]: 12%  
-[MSFT][]: 10%
+1. [BRK.B][]: 12%  
+2. [MSFT][]: 10%
+3. [GOOG][]: 8%
+4. [FB][]: 6%
+5. [AMZN][]: 4%
 
 [BRK.B]: https://www.google.com/search?q=BRK.B+share+price&oq=BRK.B+share+price&aqs=chrome..69i57.1437j0j1&sourceid=chrome&ie=UTF-8
 [MSFT]: https://www.google.com/search?q=MSFT+share+price&oq=MSFT+share+price&aqs=chrome..69i57.1214j0j1&sourceid=chrome&ie=UTF-8
+[GOOG]: https://www.google.com/search?q=GOOG+share+price&oq=GOOG+share+price&aqs=chrome..69i57j69i64.1023j0j1&sourceid=chrome&ie=UTF-8
+[FB]: https://www.google.com/search?q=FB+share+price&oq=FB+share+price&aqs=chrome..69i57.2124j0j1&sourceid=chrome&ie=UTF-8
+[AMZN]: https://www.google.com/search?q=AMZN+share+price&oq=AMZN+share+price&aqs=chrome..69i57.1253j0j1&sourceid=chrome&ie=UTF-8
 
 ### Famous quotes (Heading 3)
 > Charlie Munger: Invert, always invert.  
