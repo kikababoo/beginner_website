@@ -20,6 +20,8 @@ I do not wish to divulge much personal information on this website... So... bett
 [FB]: https://www.google.com/search?q=FB+share+price&oq=FB+share+price&aqs=chrome..69i57.2124j0j1&sourceid=chrome&ie=UTF-8
 [AMZN]: https://www.google.com/search?q=AMZN+share+price&oq=AMZN+share+price&aqs=chrome..69i57.1253j0j1&sourceid=chrome&ie=UTF-8
 
+***
+
 ### Famous quotes (Heading 3)
 > Charlie Munger: Invert, always invert.  
 >
@@ -27,10 +29,12 @@ I do not wish to divulge much personal information on this website... So... bett
 > 
 > Warren Buffett: Rule number 1 is to never lose money, Rule number 2 is to refer back to rule number 1.
 
+---
+
 ### Recent Holidays (Heading 3)
 1. Eastern Europe
     - Hallstatt
-    ![Hallstatt Lake View](blob/master/images/hallstatt.JPG)
+    ![Hallstatt Lake View](/blob/master/images/hallstatt.JPG)
 
 2. Kyushu, Japan
     - Hakata Ramen
