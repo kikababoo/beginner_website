@@ -8,8 +8,8 @@ End of para
 I do not wish to divulge much personal information on this website... So... better luck next time!
 
 ## Portfolio
-BRK.B: 12%[BRK.B]  
-MSFT: 10%[MSFT]  
+  [BRK.B]: 12%
+  [MSFT]: 10%
 
 [BRK.B]: https://www.google.com/search?q=BRK.B+share+price&oq=BRK.B+share+price&aqs=chrome..69i57.1437j0j1&sourceid=chrome&ie=UTF-8
 [MSFT]: https://www.google.com/search?q=MSFT+share+price&oq=MSFT+share+price&aqs=chrome..69i57.1214j0j1&sourceid=chrome&ie=UTF-8
